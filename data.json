@@ -1,0 +1,19 @@
+{
+  "breakingbad": {
+    "name": "Breaking Bad",
+    "seasons": {
+      "1": {
+        "1": "https://link/bb-s1-b1",
+        "2": "https://link/bb-s1-b2"
+      }
+    }
+  },
+  "dark": {
+    "name": "Dark",
+    "seasons": {
+      "1": {
+        "1": "https://link/dark-s1-b1"
+      }
+    }
+  }
+}
