@@ -3,8 +3,76 @@
     "name": "Breaking Bad",
     "seasons": {
       "1": {
-        "1": "https://link/bb-s1-b1",
-        "2": "https://link/bb-s1-b2"
+        "1": "https://dizilla.to/breaking-bad-1-sezon-1-bolum-c02",
+        "2": "https://dizilla.to/breaking-bad-1-sezon-2-bolum-c02",
+        "3": "https://dizilla.to/breaking-bad-1-sezon-3-bolum-c02",
+        "4": "https://dizilla.to/breaking-bad-1-sezon-4-bolum-c02",
+        "5": "https://dizilla.to/breaking-bad-1-sezon-5-bolum-c02",
+        "6": "https://dizilla.to/breaking-bad-1-sezon-6-bolum-c02",
+        "7": "https://dizilla.to/breaking-bad-1-sezon-7-bolum-c02"
+      },
+      "2": {
+        "1": "https://dizilla.to/breaking-bad-2-sezon-1-bolum-c02",
+        "2": "https://dizilla.to/breaking-bad-2-sezon-2-bolum-c02",
+        "3": "https://dizilla.to/breaking-bad-2-sezon-3-bolum-c02",
+        "4": "https://dizilla.to/breaking-bad-2-sezon-4-bolum-c02",
+        "5": "https://dizilla.to/breaking-bad-2-sezon-5-bolum-c02",
+        "6": "https://dizilla.to/breaking-bad-2-sezon-6-bolum-c02",
+        "7": "https://dizilla.to/breaking-bad-2-sezon-7-bolum-c02",
+        "8": "https://dizilla.to/breaking-bad-2-sezon-8-bolum-c02",
+        "9": "https://dizilla.to/breaking-bad-2-sezon-9-bolum-c02",
+        "10": "https://dizilla.to/breaking-bad-2-sezon-10-bolum-c02",
+        "11": "https://dizilla.to/breaking-bad-2-sezon-11-bolum-c02",
+        "12": "https://dizilla.to/breaking-bad-2-sezon-12-bolum-c02",
+        "13": "https://dizilla.to/breaking-bad-2-sezon-13-bolum-c02"
+      },
+      "3": {
+        "1": "https://dizilla.to/breaking-bad-3-sezon-1-bolum-c02",
+        "2": "https://dizilla.to/breaking-bad-3-sezon-2-bolum-c02",
+        "3": "https://dizilla.to/breaking-bad-3-sezon-3-bolum-c02",
+        "4": "https://dizilla.to/breaking-bad-3-sezon-4-bolum-c02",
+        "5": "https://dizilla.to/breaking-bad-3-sezon-5-bolum-c02",
+        "6": "https://dizilla.to/breaking-bad-3-sezon-6-bolum-c02",
+        "7": "https://dizilla.to/breaking-bad-3-sezon-7-bolum-c02",
+        "8": "https://dizilla.to/breaking-bad-3-sezon-8-bolum-c02",
+        "9": "https://dizilla.to/breaking-bad-3-sezon-9-bolum-c02",
+        "10": "https://dizilla.to/breaking-bad-3-sezon-10-bolum-c02",
+        "11": "https://dizilla.to/breaking-bad-3-sezon-11-bolum-c02",
+        "12": "https://dizilla.to/breaking-bad-3-sezon-12-bolum-c02",
+        "13": "https://dizilla.to/breaking-bad-3-sezon-13-bolum-c02"
+      },
+      "4": {
+        "1": "https://dizilla.to/breaking-bad-4-sezon-1-bolum-c02",
+        "2": "https://dizilla.to/breaking-bad-4-sezon-2-bolum-c02",
+        "3": "https://dizilla.to/breaking-bad-4-sezon-3-bolum-c02",
+        "4": "https://dizilla.to/breaking-bad-4-sezon-4-bolum-c02",
+        "5": "https://dizilla.to/breaking-bad-4-sezon-5-bolum-c02",
+        "6": "https://dizilla.to/breaking-bad-4-sezon-6-bolum-c02",
+        "7": "https://dizilla.to/breaking-bad-4-sezon-7-bolum-c02",
+        "8": "https://dizilla.to/breaking-bad-4-sezon-8-bolum-c02",
+        "9": "https://dizilla.to/breaking-bad-4-sezon-9-bolum-c02",
+        "10": "https://dizilla.to/breaking-bad-4-sezon-10-bolum-c02",
+        "11": "https://dizilla.to/breaking-bad-4-sezon-11-bolum-c02",
+        "12": "https://dizilla.to/breaking-bad-4-sezon-12-bolum-c02",
+        "13": "https://dizilla.to/breaking-bad-4-sezon-13-bolum-c02"
+      },
+      "5": {
+        "1": "https://dizilla.to/breaking-bad-5-sezon-1-bolum-c02",
+        "2": "https://dizilla.to/breaking-bad-5-sezon-2-bolum-c02",
+        "3": "https://dizilla.to/breaking-bad-5-sezon-3-bolum-c02",
+        "4": "https://dizilla.to/breaking-bad-5-sezon-4-bolum-c02",
+        "5": "https://dizilla.to/breaking-bad-5-sezon-5-bolum-c02",
+        "6": "https://dizilla.to/breaking-bad-5-sezon-6-bolum-c02",
+        "7": "https://dizilla.to/breaking-bad-5-sezon-7-bolum-c02",
+        "8": "https://dizilla.to/breaking-bad-5-sezon-8-bolum-c02",
+        "9": "https://dizilla.to/breaking-bad-5-sezon-9-bolum-c02",
+        "10": "https://dizilla.to/breaking-bad-5-sezon-10-bolum-c02",
+        "11": "https://dizilla.to/breaking-bad-5-sezon-11-bolum-c02",
+        "12": "https://dizilla.to/breaking-bad-5-sezon-12-bolum-c02",
+        "13": "https://dizilla.to/breaking-bad-5-sezon-13-bolum-c02",
+        "14": "https://dizilla.to/breaking-bad-5-sezon-14-bolum-c02",
+        "15": "https://dizilla.to/breaking-bad-5-sezon-15-bolum-c02",
+        "16": "https://dizilla.to/breaking-bad-5-sezon-16-bolum-c02"
       }
     }
   },
